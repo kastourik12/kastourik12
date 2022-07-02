@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama Kastouri</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate web developer from Tunisia</h3>
 
 - 🔭 I’m currently working on **my internship project**
 
